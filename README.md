@@ -86,10 +86,11 @@ Clone this repository:
 git clone https://github.com/Hiren016/Blinkit-Grocery-Data-Analysis-Dashboard.git
 
 
-## 📧 Contact
-📌 **Author:** Hiren Darji  
-📌 **LinkedIn:** [linkedin.com/in/hiren-darji31](https://linkedin.com/in/hiren-darji31)  
-📌 **Email:** darjihiren850@gmail.com  
+📧 Contact
+Hiren Darji
 
----
-🚀 _Built with passion and technology!_
+🔗 LinkedIn
+
+📱 +91 8128327896
+
+✉️ darjihiren850@gmail.com
