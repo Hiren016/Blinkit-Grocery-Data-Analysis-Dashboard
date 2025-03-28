@@ -82,4 +82,4 @@ Example:
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/blinkit-grocery-dashboard.git
+git clone https://github.com/yourusername/Blinkit-Grocery-Data-Analysis-Dashboard.git
