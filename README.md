@@ -84,3 +84,9 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Hiren016/Blinkit-Grocery-Data-Analysis-Dashboard.git
+
+## 📧 Contact
+
+📌 **Author:** Hiren Darji  
+📌 **LinkedIn:** [linkedin.com/in/hiren-darji31](https://linkedin.com/in/hiren-darji31)  
+📌 **Email:** darjihiren850@gmail.com  
