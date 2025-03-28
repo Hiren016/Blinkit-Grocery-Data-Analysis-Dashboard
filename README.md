@@ -36,10 +36,10 @@ Managing grocery sales across diverse locations, outlet sizes, and item types is
 ---
 
 ## 🖼️ Dashboard Screenshots
-Add your screenshots here to showcase the interactive dashboard and visualizations!  
-Example:
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![dashboard](https://github.com/user-attachments/assets/44f5bd8b-28e5-4f20-91cd-e8377a32c6f1)
+
+
 
 ---
 
